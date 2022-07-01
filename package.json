@@ -1,0 +1,25 @@
+{
+  "name": "plants",
+  "version": "1.0.0",
+  "description": "app using nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayWu1/plants.git"
+  },  
+  "author": "Raymond Wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RayWu1/plants/issues"
+  },
+  "homepage": "https://github.com/RayWu1/plants#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "nodemailer": "^6.5.0"
+  }
+}
